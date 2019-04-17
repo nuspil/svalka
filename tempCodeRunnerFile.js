@@ -1,0 +1,1 @@
+console.log(typeof(arr)) // массив это объект
